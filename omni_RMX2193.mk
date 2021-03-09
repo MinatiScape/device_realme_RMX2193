@@ -29,7 +29,7 @@ $(call inherit-product, vendor/omni/config/common.mk)
 PRODUCT_DEVICE := RMX2193
 PRODUCT_NAME := omni_RMX2193
 PRODUCT_BRAND := realme
-PRODUCT_MODEL := Narzo 20
+PRODUCT_MODEL := Narzo 20 / 7i (EU)
 PRODUCT_MANUFACTURER := realme
 
 # HACK: Set vendor patch level
